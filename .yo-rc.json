@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ShoppingCartAplication",
+    "packageName": "io.shopping.cart.application",
+    "packageFolder": "io/shopping/cart/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "YTk0M2I4NjBlZTIxYmNhYTAxMWQ5NDI4NWE1ZDc2OTgwNzk4ZmQ3NmE0NTFmZWVkYzk3NmU5ZGM2N2ZiOWZlNjgyMjljODhhMDRiMzAxODc0NTBhNTc5Mjg4MTc4YmU4ZDY0ZmE0Njk4ZDBiOWYwNzQ0NWJmNmUyMjc4NGY4MzI=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "HenrySyan",
+  "repository-name": "shopping-cart-application"
+}
